@@ -129,6 +129,13 @@ Training parameters (configurable in `train_model.py`):
 | `LEARNING_RATE` | 0.001 | Adam optimizer learning rate |
 | `PATIENCE` | 10 | Early stopping patience |
 
+### Alternatively
+
+```bash
+chmod +x setup.sh
+./setup.sh
+```
+
 ### Step 3: Run Live Demo
 
 ```bash
