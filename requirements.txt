@@ -1,0 +1,5 @@
+tensorflow>=2.15
+scikit-learn
+opencv-python
+mediapipe
+numpy
